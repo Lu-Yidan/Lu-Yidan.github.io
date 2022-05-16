@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "HoloCubioc AIO"
-summary: "一款多功能透明显示屏桌面站"
+summary: "A multi-functional transparent display desktop station"
 authors: []
 tags: [Embedded System]
 categories: []

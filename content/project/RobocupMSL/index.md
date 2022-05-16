@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "NWPU-2021-RoboCup-MSL Robotic Architecture"
-summary: "西北工业大学2021款RoboCup中型组足球机器人机械&电控架构"
+title: "RoboCup-MSL "
+summary: "Northwestern Polytechnical University 2021 RoboCup-MSL robot mechanical & electronic control architecture"
 authors: []
 tags: [Robotic System]
 categories: []
@@ -44,22 +44,21 @@ url_video: ""
 slides: ""
 ---
 ## **简介**
-2021年5月，我作为电控组的成员参与了 RoboCup 中型组竞赛。同时，我们赢得了中国赛的技术创新奖。
+2021年5月，我作为电控组的成员参与了 RoboCup 中型组竞赛。同时，我们赢得了中国赛的技术创新奖。2021年10月，我们参加了全国机器人锦标赛，获得国家级一等奖5项。2021年12月，我们参加了中国机器人及人工智能大赛，获得国家级一等奖1项。
 
+作为电控组负责人，我负责研发机器人的全部电控系统。[**点击这里**](https://www.bilibili.com/video/BV1bv411P7pT/)有我具体工作的介绍视频。
 <!-- 2021年10月，全国机器人锦标赛, 斩获国家级一等奖多项。
 
 2021年11月，中国机器人及人工智能大赛, 国家级一等奖一项。 -->
+
 ![img1](img1.png)
-
-
-## **技术细节**
-我负责研发机器人的电控系统。[**点击这里**](https://www.bilibili.com/video/BV1bv411P7pT/)有我具体工作的介绍视频。下文中，我将从机械结构和硬件电控两个部分去介绍我具体负责的工作
-
+---
 <!-- **机械总体**可分为：**地盘、持球、击球**3个模块
 
 **硬件总体**可分为：**主控、电磁弹射、持球状态采集**3个系统 -->
+## **技术细节**
+下文中，我将从机械结构和硬件电控两个部分去介绍此项目
 
----
 **机械部分：**
 ![img3](img3.png)
 **地盘部分**采用互成90°角均布的四个全向轮作为机器人的运动部件，整个移动平台的材料全部采用不锈钢钣和铝合金面板。
