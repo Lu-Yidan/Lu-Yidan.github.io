@@ -36,7 +36,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yidan Lu is an undergraduate majoring in software engineering at Northwestern Polytechnical University. His research interests include distributed robotics, embedded software and deep learning. He leads the Wheeled group of Football Robot Base, which develops Soccer competition robot for RoboCup-MSL. In 2021, his team won the national first prize in various robot competitions.
+I am an undergraduate majoring in software engineering at Northwestern Polytechnical University. My research interests include distributed robotics, embedded software and deep learning. I lead the Wheeled group of Football Robot Base, which develops Soccer competition robot for RoboCup-MSL. In 2021, my team won the national first prize in various robot competitions.
 
 **I’m applying for a graduate program (2022-23 entry) or a research internship!!!**
 

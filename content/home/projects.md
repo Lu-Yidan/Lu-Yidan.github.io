@@ -29,6 +29,10 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Robotic System
+      tag: Robotic System
+    - name: Embedded System
+      tag: Embedded System
     - name: Other
       tag: Demo
 
@@ -42,6 +46,8 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 2
+
+
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
