@@ -29,10 +29,10 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
-    - name: Robotic System
-      tag: Robotic System
-    - name: Embedded System
-      tag: Embedded System
+    # - name: Robotic System
+    #   tag: Robotic System
+    # - name: Embedded System
+    #   tag: Embedded System
     - name: Other
       tag: Demo
 

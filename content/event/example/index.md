@@ -1,29 +1,32 @@
 ---
 title: What is Soviet Union?
 
-event: Wowchemy Conference
-event_url: https://example.org
+# event: Wowchemy Conference
+# event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# location: Wowchemy HQ
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: What is Soviet Union? Who makes it up?
+# date: '2021-06-01T13:00:00Z'
+# date_end: '2021-07-01T15:00:00Z'
+all_day: false
+
+summary: What is Soviet Union? Who makes it up?--wikipedia
 abstract: 'The Soviet Union,[n] officially the Union of Soviet Socialist Republics[o] (USSR),[p] was a Communist state that spanned much of Eurasia from 1922 to 1991. It was nominally a federal union of fifteen national republics;[q] in practice its government and economy were highly centralized until its final years. The country was a one-party state governed by the Communist Party of the Soviet Union, with Moscow as its capital within its largest and most populous republic, the Russian SFSR. Other major cities were Leningrad (Russian SFSR), Kiev (Ukrainian SSR), Minsk (Byelorussian SSR), Tashkent (Uzbek SSR), Alma-Ata (Kazakh SSR) and Novosibirsk (Russian SFSR). It was the largest country in the world, covering over 22,402,200 square kilometres (8,649,500 sq mi), and spanning eleven time zones.'
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+
+publishDate: '2022-05-04T00:00:00Z'
 
 authors: []
 tags: []
@@ -35,30 +38,30 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+#   - example
 ---
 The Soviet Union had its roots in the October Revolution of 1917 when the Bolsheviks, headed by Vladimir Lenin, overthrew the Provisional Government that had earlier replaced the house of Romanov of the Russian Empire. They established the Russian Soviet Republic, the world's first constitutionally guaranteed socialist state.[r] Tensions escalated into a civil war between the Bolshevik Red Army and many anti-Bolshevik forces across the former Empire, among whom the largest faction was the White Guard. The White Guard engaged in violent anti-communist repression against the Bolsheviks and suspected worker and peasant Bolsheviks known as the White Terror. The Red Army expanded and helped local Bolsheviks take power, establishing soviets, repressing their political opponents and rebellious peasants through Red Terror. By 1922, the balance of power had shifted and the Bolsheviks had emerged victorious, forming the Soviet Union with the unification of the Russian, Transcaucasian, Ukrainian and Byelorussian republics. Upon the conclusion of the civil war Lenin's government introduced the New Economic Policy, which led to a partial return of a free market and private property; this resulted in a period of economic recovery.
 
