@@ -38,7 +38,9 @@ slides: ""
 A multifunctional transparent display desktop station, you can use it as your personal terminal.
 
 In April 2022, I saw zhi Huijun's open source project [HoloCubic](https://gitee.com/peng_zhihui/HoloCubic) by chance, and completed it with the open source firmware [HoloCubic_AIO](https://gitee.com/ClimbSnailQ/HoloCubic_AIO) on this basis. I hope to use it to achieve more interesting functions.
+
 **My work：**
+
 1. A variety of apps, built-in weather, clock, photo albums, special effects animation, video playback, computer screen, Web Settings and so on.
 2. Provides web interface for network configuration and other Settings.
 
