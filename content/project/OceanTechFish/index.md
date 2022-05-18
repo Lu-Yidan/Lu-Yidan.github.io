@@ -55,13 +55,13 @@ slides: ""
 
 [**点击这里**](https://www.bilibili.com/video/BV1HY4y1579Y?spm_id_from=333.999.0.0)有我们早期演示的视频。
 
-![img4](img4.png)
+![img4](img/img4.png)
 
 ---
 
 ## **技术细节**
-<!-- ![img1](img1.png) -->
-![img5](img5.png)
+<!-- ![img1](img/img1.png) -->
+![img5](img/img5.png)
 **运动控制：**
 采用单独的舵机控制每个鳍条的运动：分别控制鳍条的运动使展现不同的运动姿态
 
@@ -77,15 +77,15 @@ slides: ""
 基于5.8G的无线电信号被我们用作图传与远程通讯用途，我们能以此远程得到无人机正前方视场角130°的图像、通过传回数据对水下无人机进行远程参数调整与控制。
 
 **舵机simulink仿真**
-![img6](img6.png)
+![img6](img/img6.png)
 Matlab/Simulink提供了基本的功能模块。在Matlab中运行Simulink，根据系统结构图，在不考虑负载力矩M的影响下，代入相应参数后得到仿真实例。
 
 **CFD方法-波动鳍周围速度场模拟仿真**
-![img7](img7.png)
+![img7](img/img7.png)
 航行器两侧水流速度较快, 前端和后端水流速度较慢。在波动鳍运动的过程中会有涡产生，该涡分布于波动鳍面的周围并呈现反出卡门涡街的形式，这种形式的涡会形成一股中央射流，而射流是产生推进力重要的来源和标志。
 
 **手机客户端**
-<div align=center><img src="img8.png" width="200"></div>
+<div align=center><img src="img/img8.png" width="200"></div>
 使用快速开发工具blynk、开发波动鳍控制器手机APP，它可以实现对航行器的方向、速度、深度的实时监测与状态控制；当发生紧急情况时，系统会及时报警、紧急关闭。
 
 
@@ -100,7 +100,7 @@ Matlab/Simulink提供了基本的功能模块。在Matlab中运行Simulink，根
 
 ## **图片**
 
-![img3](img3.png)
+![img3](img/img3.png)
 
 
 
