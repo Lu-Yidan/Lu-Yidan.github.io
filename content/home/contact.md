@@ -25,13 +25,13 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ludaxian81192@gmail.com
+  email: luyidan81192@gmail.com
   phone: 
   address:
-    street: NorthWestern Political University
+    street: Northwestern Polytechnical University
     city: Xi'an
     region: shaanxi
-    postcode: '710000'
+    postcode: '710029'
     country: China
     country_code: CHN
   coordinates:
