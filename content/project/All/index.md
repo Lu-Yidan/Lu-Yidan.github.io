@@ -1,10 +1,17 @@
 ---
 title: Abstract of all my projects!
-summary: "Abstract of all my projects here!"
+summary: "Abstract of all my projects here! (2022.05)"
 authors: []
 tags: [Embedded System]
 categories: []
 date: 2022-05-16T12:06:40+08:00
+
+
+# Date published
+date: '2022-10-11T00:00:00Z'
+
+# Date updated
+lastmod: '2022-10-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -22,6 +29,9 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

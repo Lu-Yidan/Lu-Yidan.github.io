@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "RoboCup-MSL "
-summary: "Northwestern Polytechnical University 2021 RoboCup-MSL robot mechanical & electronic control architecture"
+summary: "Northwestern Polytechnical University 2021 RoboCup-MSL robot mechanical & electronic control architecture (2021.05)"
 authors: []
 tags: [Robotic System]
 categories: []

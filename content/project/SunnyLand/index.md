@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SunnyLand"
-summary: "A Multiplayer online roguelike game"
+summary: "A Multiplayer online roguelike game (2020.12)"
 authors: []
 tags: [demo]
 categories: []

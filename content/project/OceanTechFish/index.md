@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "OceanTech Fish"
-summary: "Three undulating fin bionic fish"
+summary: "Three undulating fin bionic fish (2021.10)"
 authors: []
 tags: [Robotic System]
 categories: []
