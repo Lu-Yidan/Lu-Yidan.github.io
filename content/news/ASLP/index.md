@@ -1,11 +1,11 @@
 ---
-title: I'm interning at the ASLP LAB! My most recent work, "Training a model with a batch of wake-up words and deploying it on an embedded platform." 
+title: I'm interning at the ASLP LAB! (Speech and Image Information Processing)
 
 
 subtitle: 
 
 # Summary for listings and search engines
-summary: Audio, Speech and Language Processing Group at Northwestern Polytechnical University (ASLP@NPU) is one of the active research teams in the wide area of audio, speech and language processing. Founded in 1995, the ASLP Lab conducts research in audio and speech signal processing, speech recognition, speech synthesis, speaker verification and multimodal (audio-visual) speech processing.
+summary: Training a model with a batch of wake-up words and deploying it on an embedded platform (Horizon new generation AIoT chip).
 
 # Link this post with a project
 projects: []
