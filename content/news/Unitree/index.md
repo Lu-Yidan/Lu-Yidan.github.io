@@ -5,7 +5,7 @@ title: I borrowed an Unitree go1 robot! I'm implenting "learing for leged locomo
 subtitle: 
 
 # Summary for listings and search engines
-summary: At the end of my last year of college. I decide to do some work about learing for leged locomotion. I hope to publish a CCFB by 2023.
+summary: At the end of my last year of college. I decide to do some work about learing for leged locomotion.
 
 # Link this post with a project
 projects: []
