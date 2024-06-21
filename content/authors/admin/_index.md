@@ -47,7 +47,7 @@ Hello! I'm a MPhil student at <strong style="color: black;">The University of Ho
 </p>
 
 <p style="text-align: justify;">
-I earned my Bachelor's degree from <strong style="color: black;">Northwestern Polytechnical University</strong> in 2023, where I conducted research on <strong style="color: black;">Audio Speech Recognition</strong>. My work was supervised by <a href="https://teacher.nwpu.edu.cn/en/xielei.html">Professor Lei XIE</a> at the <a href="http://www.nwpu-aslp.org/english">ASLP Lab</a>. During my time at the lab, I focused on developing advanced techniques for improving the accuracy and efficiency of speech recognition systems.
+I earned my Bachelor's degree from <strong style="color: black;">Northwestern Polytechnical University</strong> in 2023, where I conducted research on <strong style="color: black;">Audio Speech Recognition</strong>. My work was supervised by <a href="https://teacher.nwpu.edu.cn/en/xielei.html">Lei XIE</a> <a href="http://www.nwpu-aslp.org/english">(ASLP Lab)</a>. During my time at the lab, I focused on developing advanced techniques for improving the accuracy and efficiency of speech recognition systems.
 </p>
 
 <!-- Hello!  I'm a Mphil student in ME at The University of Hong Kong by [Peng LU](https://www.mech.hku.hk/academic-staff/lu-p) at the [ArcLab](https://arclab.hku.hk/). I work on enabling robots to interact with and learn in the real world, so as to acquire human-like abilities. 
