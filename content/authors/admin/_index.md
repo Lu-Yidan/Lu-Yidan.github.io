@@ -1,13 +1,14 @@
 ---
 title: Yidan Lu(鲁一丹)
-role: Undergraduate of Software Engineer
+role: MPhil
 avatar_filename: Qlyd.jpg
 bio: My research interests include distributed robotics, embedded software and deep learning.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Legged Robotics
+  - Control theory
+  - Machine learning
+  - Speech Recognization
 social:
   # - icon: envelope
   #   icon_pack: fas
@@ -26,7 +27,7 @@ social:
     link: https://www.linkedin.com/in/%E4%B8%80%E4%B8%B9-%E9%B2%81-a820b8248/
 organizations:
   - name: The University of Hong Kong
-  - url: https://hku.hk/
+    url: https://www.hku.hk/
   - name: Northwestern Polytechnical University
     url: https://www.nwpu.edu.cn/
 education:
@@ -41,11 +42,21 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a graduate student in Mechanical Engineering at The University of Hong Kong, supervised by Professor Peng Lu. My research interests include legged robotics, reinforcement learning, and large language models.
+<p style="text-align: justify;">
+Hello! I'm an MPhil student in Mechanical Engineering at <strong style="color: black;">The University of Hong Kong</strong>, supervised by <a href="https://www.mech.hku.hk/academic-staff/lu-p">Peng LU</a> at the <a href="https://arclab.hku.hk/">ArcLab</a>. My research focuses on enabling robots to interact with and learn from the real world, aiming to acquire human-like abilities.
+</p>
 
-I earned my Bachelor's degree in Software Engineering from Northwestern Polytechnical University in 2023, where I was supervised by Professor Lei Xie. During my undergraduate studies, I conducted research in audio and speech recognition. Additionally, I led the Wheeled Group of the Football Robot Base, where we developed soccer competition robots for RoboCup-MSL. In 2021, my team won the national first prize in various robotics competitions.
+<p style="text-align: justify;">
+I earned my Bachelor's degree in Software Engineering from <strong style="color: black;">Northwestern Polytechnical University</strong> in 2023, where I conducted research on audio speech recognition under the supervision of <a href="https://teacher.nwpu.edu.cn/en/xielei.html">Lei XIE</a> at the <a href="http://www.nwpu-aslp.org/english">ASLP Lab</a>.
+</p>
+
+<!-- Hello!  I'm a Mphil student in ME at The University of Hong Kong by [Peng LU](https://www.mech.hku.hk/academic-staff/lu-p) at the [ArcLab](https://arclab.hku.hk/). I work on enabling robots to interact with and learn in the real world, so as to acquire human-like abilities. 
+
+I earned my Bachelor's degree in SE from Northwestern Polytechnical University in 2023, where I conducted research on audio speech recognition under the supervision of Professor [Lei XIE](https://teacher.nwpu.edu.cn/en/xielei.html) at the [ASLP Lab](http://www.nwpu-aslp.org/english).
+ -->
+
 <!-- I am an undergraduate majoring in software engineering at Northwestern Polytechnical University. My research interests include distributed robotics, embedded software and deep learning. I lead the Wheeled group of Football Robot Base, which develops Soccer competition robot for RoboCup-MSL. In 2021, my team won the national first prize in various robot competitions. -->
 
-**I’m applying for a research internship(2024-25 entry) !!!**
+**I’m applying for a research internship(2024-25 entry).**
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
