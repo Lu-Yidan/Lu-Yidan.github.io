@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: luyidan81192@gmail.com
-  phone: 
+  phone: +86 18793726855 | +852 56600906
   address:
     street: Northwestern Polytechnical University
     city: Xi'an
